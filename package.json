@@ -1,0 +1,11 @@
+{
+  "name": "week-3-code-challange",
+  "version": "1.0.0",
+  "description": "Flatdango",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valary",
+  "license": "ISC"
+}
