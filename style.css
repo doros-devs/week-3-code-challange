@@ -13,12 +13,29 @@ body {
   width: 300px;
   display: flex;
   flex-direction: column;
-  gap: 20px
+  gap: 20px;
 }
 
 .movie-item-image {
   border-radius: 50%;
   height: 100px;
   width: 100px;
+  padding: 10px;
+  object-fit: cover;
+}
+
+.poster {
+  height: 500px;
+  width: 800px;
+  border-radius: 15px;
+  object-fit: contain;
+  background-color: gray;
+}
+
+.movie-description {
+  padding: 20px;
+}
+
+button {
   padding: 10px;
 }
